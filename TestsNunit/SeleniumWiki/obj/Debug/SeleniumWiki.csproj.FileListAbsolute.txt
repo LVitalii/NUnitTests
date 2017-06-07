@@ -1,0 +1,9 @@
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\SeleniumWiki\bin\Debug\SeleniumWiki.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\SeleniumWiki\bin\Debug\SeleniumWiki.pdb
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\SeleniumWiki\bin\Debug\WebDriver.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\SeleniumWiki\bin\Debug\WebDriver.xml
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\SeleniumWiki\obj\Debug\SeleniumWiki.csprojResolveAssemblyReference.cache
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\SeleniumWiki\obj\Debug\SeleniumWiki.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\SeleniumWiki\obj\Debug\SeleniumWiki.pdb
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\SeleniumWiki\bin\Debug\WebDriver.Support.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\SeleniumWiki\bin\Debug\WebDriver.Support.xml

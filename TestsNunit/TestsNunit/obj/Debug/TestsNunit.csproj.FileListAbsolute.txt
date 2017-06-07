@@ -1,0 +1,13 @@
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\TestsNunit.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\TestsNunit.pdb
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\nunit.framework.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\nunit.framework.xml
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\obj\Debug\TestsNunit.csprojResolveAssemblyReference.cache
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\obj\Debug\TestsNunit.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\obj\Debug\TestsNunit.pdb
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\SeleniumWiki.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\WebDriver.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\SeleniumWiki.pdb
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\WebDriver.xml
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\WebDriver.Support.dll
+D:\Projects\AutomationMentoring\NunitTasks\TestsNunit\TestsNunit\bin\Debug\WebDriver.Support.xml
